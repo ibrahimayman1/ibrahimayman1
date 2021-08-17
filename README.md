@@ -3,7 +3,7 @@
 ### A Full Stack Developer From Egypt
 
 - 🔭 I'm currently working on an Asp.net core Restaurant project
-- 🌱 I’m currently learning Asp.net Core Mvc
+- 🌱 I’m currently learning Angular js
 - 💬 Ask me about Asp.net core
 - 📫 How to reach me: Ia1613@fayoum.edu.eg
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TV2uyH-4-4GqwiK95qALTzSDl_SUv-yy/view?usp=drivesdk"> My Resume  </a>
